@@ -12,4 +12,4 @@
 
 คำสั้งติดตั้ง Firebase tool: npm install -g firebase-tools
 
-ลิ้งเว็บไซต์แบบทดสอบ:  https://frontend-developer-exams.web.app/
+ลิ้งเว็บไซต์แบบทดสอบ: https://frontend-developer-exams.web.app/
